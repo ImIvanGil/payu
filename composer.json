@@ -1,0 +1,15 @@
+{
+    "name": "orion/payu",
+    "description": "PayU library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ivan Gil",
+            "email": "ivaang94@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Sat\\": "src/"}
+    }
+}
